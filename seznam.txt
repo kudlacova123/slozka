@@ -2,3 +2,5 @@
 2.Pygame
 3. Html
 4.Git 1/2
+5. pygame
+6. oop
