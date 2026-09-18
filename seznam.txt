@@ -5,3 +5,4 @@
 5. pygame
 6. oop
 7. github
+8.nahodna zmena ncjenoÚEFWIJFIEwxjqwib
